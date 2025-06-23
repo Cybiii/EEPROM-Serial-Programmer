@@ -47,10 +47,8 @@ The circuit uses shift registers to control the EEPROM address lines, allowing t
    
 ### Sample Output
 
-```
-000: 01 ff f1 42 01 ff f1 42     01 ff f1 42 01 ff f1 42
-010: 01 ff f1 42 01 ff f1 42     01 ff f1 42 01 ff f1 42
-```
+![image](https://github.com/user-attachments/assets/263d2a0b-673f-4d7a-bfb1-beb772f9be7b)
+
 
 ## Customization
 
